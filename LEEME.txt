@@ -1,0 +1,14 @@
+PORTAFOLIO DE LELE - VERSIÓN PARA PUBLICAR (SOLO LECTURA)
+
+Contenido de esta carpeta:
+- index.html: textos, imágenes, gato 3D, figuras y letras con todos los cambios.
+- assets/modelos: las 4 escenas 3D, optimizadas para web (64 MB en total, antes 620 MB):
+    01 Velvet Room        -> velvet-room.glb    (antes "eje3 (2).glb")
+    02 The Study          -> the-study.glb      (antes "eje2.glb")
+    03 Vintage Café       -> vintage-cafe.glb   (antes "ESCENARIO CAFETERIA.glb")
+    04 The Hidden Garden  -> hidden-garden.glb  (antes "escenario_pasillosff1.glb")
+
+- No hay opciones de edición: los visitantes solo pueden mirar y girar las escenas.
+- Al subirla a GitHub sube TODO: index.html y la carpeta assets (ningún archivo pasa de 25 MB).
+- Las escenas solo se ven desde internet o con un servidor local; con doble clic en
+  index.html el navegador bloquea la carga de los modelos.
